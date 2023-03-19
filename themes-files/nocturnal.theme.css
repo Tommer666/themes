@@ -34,11 +34,11 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
 :root {
-  --backgroundColor01: #1e2731;
+  --backgroundColor01: #0d1520;
   --backgroundColor02: #131c26;
   --mainColor: #2275c9;
   --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
+  --gradientColor02: #1aa3ff;
 
   /* Better Hljs */
   --backgroundCode: #1e2731;
@@ -49,12 +49,12 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
   --rs-large-spacing: 3px;
   --rs-width: 2px;
   --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
+  --rs-online-color: #43c356;
   --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
+  --rs-dnd-color: #C72929;
+  --rs-offline-color: #474D54;
   --rs-streaming-color: #643da7;
-  --rs-invisible-color: #747f8d;
+  --rs-invisible-color: #93A0B0;
   --rs-phone-visible: block;
   --rs-phone-color: var(--rs-online-color);
 
