@@ -1,8 +1,8 @@
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
 :root {
   /* Radial Status */
-  --rs-small-spacing: 2px;
-  --rs-large-spacing: 3px;
+  --rs-small-spacing: 3px;
+  --rs-large-spacing: 4px;
   --rs-width: 4px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #43c356;
